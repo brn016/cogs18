@@ -1,0 +1,11 @@
+{
+  "test_functions.py::test_end_chat": true,
+  "test_functions.py::test_is_question": true,
+  "test_functions.py::test_list_to_string": true,
+  "test_functions.py::test_prepare_text": true,
+  "test_functions.py::test_remove_punctuation": true,
+  "test_functions.py::test_respond_echo": true,
+  "test_functions.py::test_selector": true,
+  "test_functions.py::test_string_concatenator": true,
+  "tests/test_functions.py": true
+}

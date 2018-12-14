@@ -1,0 +1,5 @@
+[
+  "test_functions.py::test_remove_last_chara",
+  "test_functions.py::test_remove_first_chara",
+  "test_functions.py::test_separate"
+]

@@ -1,0 +1,175 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh10440\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 name = value or \'91value\
+\
+print(name)\
+\
+DEF: variables - assignment (not equality)\
+	case sensitive\
+	start w letters\
+	no special char\
+	can be multiple =\'92s\
+	asdas\
+\
+DEF \ul namespace\ulnone : everything stored in active memory (where currently defined code is declared)\
+	%whos lists everything in namespace \
+\
+DEF: Types: \
+	type(var) checks what type it is\
+\
+	Int- integer (unsigned, stepikwhole number)\
+	Float - floating point (signed decimal point number)\
+	Strings - characters, text          store in single or double parentheses \
+	None - to store null or empty value \
+\
+values can have more than one name\
+\
+OPERATORS\
+\
+Assignment operator is = \
+\
+Math operators\
+\
+	 + - * /\
+	** exponent % modulus (remainder)\
+\
+Boolean logic\
+\
+	 and, or, not\
+\
+Comparison Operators (value)\
+\
+	==, !=, <, >, <=, >=\
+\
+Comparing identity\
+\
+	is, is not (returns booleans)\
+\
+String concatenation\
+\
+	+\
+\
+Chaining operations\
+\
+\
+~~~~~~~~~~~~~~~~\
+10/10\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \ul \ulc0 conditionals\ulnone : if condition: \
+\
+indent after \
+\
+\
+\
+\
+!missed lectures\
+\
+~~~~~~~~~~~~~\
+\
+Functions\
+\
+Modular programming\
+	build from independent modules\
+\
+def FUNCTION\
+	code\
+	return\
+\
+Function()\
+\
+\
+\
+~~~~~~~~~~\
+\
+Algorithms\
+\
+	formal description of how to complete a procedure\
+\
+Sorting\
+\
+unsorted infinity\
+\
+\
+\
+~!~~~~~~~\
+DEBUGGING\
+`try and except\
+\
+\
+\
+try:\
+	function\
+	except erorname\
+		exception\
+\
+Raising errors\
+\
+\
+~~~~~~~~~~~~\
+\
+OBJECTS\
+\
+-organization of data (attributes) with methods to operate on that data\
+\
+	access attributes and methods with a dot\
+	e.g my_date.day\
+\
+nouns: attributes\
+verbs: methods\
+\
+\
+Classes define objects\
+	opens code block on how to create objects of particular type\
+\
+Class Dog():\
+\
+Self refers ti current instant\
+\
+Instance attributes\
+	unity\
+\
+~~~~~~~~~~~~~~~~~~\
+\
+Names in namespace are in scope\
+\
+Python packages are modules\
+\
+import module\
+\
+FUNCITONe\
+~~~~~~~\
+\
+you cans et default values \
+\
+\
+Inheritance\
+	-set previous class object as parameter\
+	-use super().__init__ to call \
+\
+Command Line & Scripts\
+	!pwd\
+	!cd\
+	!mkdir\
+	!touch\
+\
+\
+~~~~~~~~~~~~~~~~~~~~~~~~~~\
+\
+API\
+\
+software to software interface\
+naming variables well\
+\
+\
+\
+~~~~~~~~~~~~~~~~~~\
+\
+\
+numpy: lists that update\
+\
+}

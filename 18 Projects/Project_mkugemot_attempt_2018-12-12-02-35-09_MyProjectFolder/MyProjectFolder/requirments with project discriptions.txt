@@ -1,0 +1,15 @@
+require PsychoPy3
+
+-overview of the files-
+ÅEmy_project.py: my main code, please run this code to start the program
+ÅEmy_module: includes 'classes', 'quiz', 'function', and 'test_function'
+	-classes: define the classs 'USACity' to store the instances of the cities in the USA
+	-quiz: include three functions of the multiple choices
+	-function: the supplemental function for the quiz
+		   I separated this function because the test on this function did not pass in the terminal, outside of PsychoPy.
+	-test_funcion: test the function
+ÅEspot_pictures: includes the jpeg files of the pictures used in the code
+
+I uploaded it on the Github.
+account name: mkugemoto
+link: https://github.com/mkugemoto/COGS18_final_project

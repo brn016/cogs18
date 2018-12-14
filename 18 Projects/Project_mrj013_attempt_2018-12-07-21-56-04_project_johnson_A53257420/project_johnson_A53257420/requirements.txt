@@ -1,0 +1,18 @@
+This program will allow the user to view data using the folium package. The user can import data (violence data in this case). The program will analyze the data so that we can visualize the number of incidents that happen on a particular day of them month on the map. This test is conducted using a small portion of a much larger dataset.
+
+
+SAMPLE FILES NEEDED TO RUN CODE:
+	- template.csv
+	- guns_example.csv
+
+
+PACKAGES NECESSARY (CODE CALLS THEM)
+get_ipython().system('pip install twisted')
+get_ipython().system('pip install ipyleaflet')
+get_ipython().system('pip install folium')
+get_ipython().system('pip install pandas')
+
+
+MODULES TO IMPORT (CODE CALLS THEM)
+import pandas as pd
+import folium

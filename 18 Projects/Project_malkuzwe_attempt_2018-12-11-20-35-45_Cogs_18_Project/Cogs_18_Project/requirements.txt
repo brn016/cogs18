@@ -1,0 +1,7 @@
+To run the notebook you must install:
+basemap 
+basemap-data-hires
+matplotlib
+pyproj
+
+I also included the file that contains the dataframe I used for this project.
