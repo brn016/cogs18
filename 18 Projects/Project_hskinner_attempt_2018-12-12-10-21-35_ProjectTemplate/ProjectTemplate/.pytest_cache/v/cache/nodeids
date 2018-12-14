@@ -1,0 +1,10 @@
+[
+  "my_module/test_functions.py::test_remember_punc",
+  "my_module/test_functions.py::test_choose_num",
+  "my_module/test_functions.py::test_replace_words",
+  "my_module/test_functions.py::test_remember_ends",
+  "my_module/test_functions.py::test_remove_ends",
+  "my_module/test_functions.py::test_cap_sentences",
+  "my_module/test_functions.py::test_fix_all_caps",
+  "my_module/test_functions.py::test_madlib"
+]

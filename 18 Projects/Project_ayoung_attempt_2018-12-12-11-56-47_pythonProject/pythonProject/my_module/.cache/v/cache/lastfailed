@@ -1,0 +1,6 @@
+{
+  "test.py::test_dex": true,
+  "test.py::test_proficiency": true,
+  "test.py::test_sneak_attack": true,
+  "test_functions.py": true
+}

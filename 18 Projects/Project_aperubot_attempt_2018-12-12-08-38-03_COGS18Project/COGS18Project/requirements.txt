@@ -1,0 +1,8 @@
+Python 3.7.0
+
+import webbrowser 
+https://docs.python.org/3.1/library/webbrowser.html
+
+
+for test function
+import types

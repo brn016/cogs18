@@ -1,0 +1,7 @@
+{
+  "my_module/test_functions.py::test_capitalize_sentences": true,
+  "my_module/test_functions.py::test_choose_number": true,
+  "my_module/test_functions.py::test_fix_all_capitalization": true,
+  "my_module/test_functions.py::test_fix_capitalization": true,
+  "my_module/test_functions.py::test_remember_punctuation": true
+}
